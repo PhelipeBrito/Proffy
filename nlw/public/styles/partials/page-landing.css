@@ -22,7 +22,7 @@
     margin-top: 0.8rem;
 }
 
-.hero-image { /*Vai herdar as configurações do #container*/
+.hero-image { /*It will inherit the #container configuration*/
     width: 100%; 
 }
 
@@ -87,7 +87,7 @@
 
 @media (max-width: 699px) {
     :root {
-        font-size: 40%; /*Modificar as medidas rem*/
+        font-size: 40%; /*Modify the rem measure to desktop version*/
     }
 }
 

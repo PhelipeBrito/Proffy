@@ -1,5 +1,3 @@
-//nodemon para reiniciar o servidor auto
-//nunjucks
 const express = require('express')
 const server = express()
 
